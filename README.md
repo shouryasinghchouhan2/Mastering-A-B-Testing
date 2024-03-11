@@ -1,5 +1,7 @@
 # Mastering-A-B-Testing
-Overview
+
+# Overview
+
 A/B testing, or split testing, is a statistical method used in marketing and product development to compare two versions of a web page, advertisement, email, or other marketing material to determine which performs better.
 In A/B testing, two versions of the same marketing material are created: version A (the control group) and version B (the treatment group). The two versions are then randomly shown to different groups of users, and their responses are measured and compared.
 In A/B testing, the treatment group is the group that receives the modified version of the marketing material being tested (version B). In contrast, the control group is the group that receives the original or existing version of the marketing material (version A).
